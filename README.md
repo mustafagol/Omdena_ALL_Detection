@@ -10,7 +10,7 @@ Project detailed description: https://omdena.com/chapter-challenges/detecting-pe
 
 ## Objectives
 
-The goal of the project is to build a model which will make early identification of paediatric ALL quick and cost effective – this will allow early treatment to be sought and potentially save the lives of those who are afflicted.
+The goal of the project is to build a model which will make early identification of paediatric ALL quick and cost effective – this will allow early treatment to be sought and potentially save the lives.
 
 In more specific terms, them objective is to train machine learning and deep learning models for automatic identifiction/classification of healthy cels (hem) and cancer cells (all).
 
